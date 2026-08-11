@@ -43,3 +43,6 @@
 ![Token Create](images/passwordCreationProcess-4.png)
 
 - Click on Generate Token Button present in bottom after filling all the required information.
+
+## 7. Follow the following link to gain more expertise on Git commands
+!atlassian.com/git/glossary#commands
